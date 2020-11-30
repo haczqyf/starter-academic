@@ -16,7 +16,7 @@ publishDate: 2020-11-26T18:01:15Z
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*arXiv preprint arXiv:2005.04081*"
+publication: "*arXiv preprint arXiv:2005.04081 Revise & Resubmit to [Cell Patterns](https://www.cell.com/patterns/home)*"
 publication_short: ""
 
 abstract: ""
@@ -36,7 +36,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: https://arxiv.org/abs/2005.04081
+url_pdf: https://arxiv.org/pdf/2005.04081.pdf
 url_code: https://github.com/haczqyf/ggc
 url_dataset: https://github.com/haczqyf/ggc/tree/master/ggc/data
 url_poster:
@@ -50,7 +50,7 @@ url_video:
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: ""
-  focal_point: ""
+  focal_point: "Center"
   preview_only: false
 
 # Associated Projects (optional).

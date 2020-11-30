@@ -13,13 +13,25 @@ publishDate: 2020-11-26T17:57:25Z
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*Scientometrics*"
 publication_short: ""
 
-abstract: ""
+abstract: "A number of bibliometric studies point out that the role of conference publications
+in computer science differs from that in other traditional fields. Thus, it is interesting to
+identify the relative status of journal and conference publications in different subfields of
+computer science based on the citation rates categorised by the China Computer Federation
+(CCF) classifications and venue types. In this research, we construct a dataset containing over
+100,000 papers recommended by the CCF catalogue and their citation information. We also
+investigate some other factors that often influence a paper’s citation rate. An experimental
+study shows that the relative status of journals and conferences varies greatly in different
+subfields of computer science, and the impact of different publication levels varies according
+to the citation rate. We also verify that the classification of a publication, number of authors,
+maximum h-index of all authors of a paper, and average number of papers published by a
+publication have different effects on the citation rate, although the citation rate may have a
+different degree of correlation with these factors."
 
 # Summary. An optional shortened abstract.
 summary: ""
@@ -50,7 +62,7 @@ url_video:
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: ""
-  focal_point: ""
+  focal_point: "Center"
   preview_only: false
 
 # Associated Projects (optional).
