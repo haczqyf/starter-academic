@@ -16,7 +16,7 @@ publishDate: 2020-11-26T18:01:15Z
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*arXiv preprint arXiv:2005.04081 Revise & Resubmit to [Cell Patterns](https://www.cell.com/patterns/home)*"
+publication: "*arXiv preprint arXiv:2005.04081 Revise & Resubmit to [Cell Patterns](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3713501)*"
 publication_short: ""
 
 abstract: ""
