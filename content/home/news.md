@@ -49,7 +49,7 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-- **11/2020 :fist: New paper accepted at** ***IEEE Transactions on Neural Networks and Learning Systems***.
+- **01/2021 :fist: [New paper](https://ieeexplore.ieee.org/document/9319542) published at** ***IEEE Transactions on Neural Networks and Learning Systems***.
 - 09/2020 Oral and poster presentation at *[NetSci 2020](https://netsci2020.netscisociety.net/), online*.
 - 07/2020 Poster presentation at *[IC2S2 2020](http://2020.ic2s2.org/6th-international-conference-computational-social-science), online*.
 - 05/2020 :book: New preprint on Geometric graphs from data to aid classification tasks with graph convolutional networks [[arXiv](https://arxiv.org/abs/2005.04081)].
