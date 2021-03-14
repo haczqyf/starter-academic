@@ -49,7 +49,7 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-- 03/2021 [New paper](https://arxiv.org/abs/2005.04081) accepted at ***Cell Patterns*** [[arXiv](https://arxiv.org/abs/2005.04081)].
+- 03/2021 [New paper](https://arxiv.org/abs/2005.04081) accepted at ***Patterns*** [[arXiv](https://arxiv.org/abs/2005.04081)].
 - 01/2021 [New paper](https://ieeexplore.ieee.org/document/9319542) published at ***IEEE Transactions on Neural Networks and Learning Systems*** [[arXiv](https://arxiv.org/abs/1905.12921)].
 - 09/2020 Oral and poster presentation at *[NetSci 2020](https://netsci2020.netscisociety.net/), online*.
 - 07/2020 Poster presentation at *[IC2S2 2020](http://2020.ic2s2.org/6th-international-conference-computational-social-science), online*.

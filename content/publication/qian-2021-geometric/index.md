@@ -3,7 +3,7 @@
 
 title: "Geometric graphs from data to aid classification tasks with graph convolutional networks"
 authors: [Yifan Qian, Paul Expert, Pietro Panzarasa, Mauricio Barahona]
-date: 2021-03-01
+date: 2021-03-12
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -16,7 +16,7 @@ publishDate: 2020-11-26T18:01:15Z
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*[Cell Patterns](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3713501)*"
+publication: "*Patterns*"
 publication_short: ""
 
 abstract: ""
