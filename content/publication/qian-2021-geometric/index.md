@@ -30,19 +30,19 @@ featured: false
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
-# links:
-# - name: Follow
+#links:
+#- name: Follow
 #   url: https://twitter.com
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: https://www.cell.com/patterns/pdfExtended/S2666-3899(21)00057-X
+url_pdf: files/qian2021geometric.pdf
 url_code: https://github.com/haczqyf/ggc
 url_dataset: https://github.com/haczqyf/ggc/tree/master/ggc/data
 url_poster:
 url_project:
 url_slides:
-url_source:
+url_source: https://www.cell.com/patterns/fulltext/S2666-3899(21)00057-X
 url_video: https://www.youtube.com/watch?v=_H71bbNKO3Q
 
 # Featured image

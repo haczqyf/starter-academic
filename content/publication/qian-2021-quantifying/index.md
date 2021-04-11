@@ -36,13 +36,13 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: https://arxiv.org/pdf/1905.12921.pdf
+url_pdf: files/qian2021quantifying.pdf
 url_code: https://github.com/haczqyf/gcn-data-alignment
 url_dataset: https://github.com/haczqyf/gcn-data-alignment/tree/master/alignment/data
 url_poster:
 url_project:
 url_slides:
-url_source:
+url_source: https://ieeexplore.ieee.org/document/9319542
 url_video:
 
 # Featured image

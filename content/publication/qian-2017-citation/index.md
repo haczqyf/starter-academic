@@ -54,7 +54,7 @@ url_dataset:
 url_poster:
 url_project:
 url_slides:
-url_source:
+url_source: https://link.springer.com/article/10.1007/s11192-016-2235-4
 url_video:
 
 # Featured image
