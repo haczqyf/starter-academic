@@ -3,8 +3,8 @@
 
 title: "Geometric graphs from data to aid classification tasks with graph convolutional networks"
 authors: [Yifan Qian, Paul Expert, Pietro Panzarasa, Mauricio Barahona]
-date: 2021-03-12
-doi: ""
+date: 2021-04-09
+doi: "10.1016/j.patter.2021.100237"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2020-11-26T18:01:15Z
@@ -36,7 +36,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: https://arxiv.org/pdf/2005.04081.pdf
+url_pdf: https://www.cell.com/patterns/pdfExtended/S2666-3899(21)00057-X
 url_code: https://github.com/haczqyf/ggc
 url_dataset: https://github.com/haczqyf/ggc/tree/master/ggc/data
 url_poster:
