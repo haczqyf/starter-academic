@@ -49,6 +49,8 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+- 04/2021 I have been accepted to the Summer Institute in Computational
+Social Science Chicago ([SICSS Chicago](https://sicss.io/2021/chicago/)) 2021.
 - 04/2021 Our abstract accepted as an oral contribution at *[Networks 2021](https://networks2021.net/), online*.
 - 04/2021 :book: New paper published at ***Patterns*** [[official](https://www.cell.com/patterns/fulltext/S2666-3899(21)00057-X)][[arXiv](https://arxiv.org/abs/2005.04081)].
 - 01/2021 :book: New paper published at ***IEEE Transactions on Neural Networks and Learning Systems*** [[official](https://ieeexplore.ieee.org/document/9319542)][[arXiv](https://arxiv.org/abs/1905.12921)].
