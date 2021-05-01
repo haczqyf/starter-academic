@@ -16,7 +16,7 @@ publishDate: 2020-11-26T18:01:15Z
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Patterns*"
+publication: "*Cell Patterns*"
 publication_short: ""
 
 abstract: ""
