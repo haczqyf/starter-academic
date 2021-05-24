@@ -53,7 +53,7 @@ subtitle = ""
 - 04/2021 I have been accepted to the Summer Institute in Computational
 Social Science Chicago ([SICSS Chicago](https://sicss.io/2021/chicago/)) 2021.
 - 04/2021 One abstract on science of science accepted as an oral contribution at *[Networks 2021](https://networks2021.net/), online*.
-- 04/2021 :book: New paper published at ***Cell Patterns*** [[published](https://www.cell.com/patterns/fulltext/S2666-3899(21)00057-X)][[arXiv](https://arxiv.org/abs/2005.04081)].
+- 04/2021 :book: New paper published at ***Patterns Cell Press*** [[published](https://www.cell.com/patterns/fulltext/S2666-3899(21)00057-X)][[arXiv](https://arxiv.org/abs/2005.04081)].
 - 01/2021 :book: New paper published at ***IEEE Transactions on Neural Networks and Learning Systems*** [[published](https://ieeexplore.ieee.org/document/9319542)][[arXiv](https://arxiv.org/abs/1905.12921)].
 - 09/2020 Oral and poster presentation at *[NetSci 2020](https://netsci2020.netscisociety.net/), online*.
 - 07/2020 Poster presentation at *[IC2S2 2020](http://2020.ic2s2.org/6th-international-conference-computational-social-science), online*.
