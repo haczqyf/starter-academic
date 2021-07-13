@@ -49,6 +49,7 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+- 07/2021 I have been accepted into the Science of Science Summer School ([S4](https://scienceofscience.org/)) 2021.
 - 05/2021 Three abstracts on science of science accepted as oral contributions at *[IC2S2 2021](https://ic2s2-2021.ethz.ch/), online*.
 - 04/2021 I have been accepted to the Summer Institute in Computational
 Social Science Chicago ([SICSS Chicago](https://sicss.io/2021/chicago/)) 2021.
