@@ -6,12 +6,12 @@ title: Yifan Qian
 superuser: true
 
 # Role/position
-role: PhD Student in Computational Social Science
+role: Postdoc in Science of Science
 
 # Organizations/Affiliations
 organizations:
-- name: Queen Mary University of London
-  url: "https://www.qmul.ac.uk/"
+- name: Northwestern University
+  url: "https://www.kellogg.northwestern.edu/research/science-of-science.aspx"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research is broadly concerned with computational social science and combines theories and methods from network science, sociology, machine learning and data science.
@@ -31,6 +31,9 @@ education:
   - course: MSc in computer science
     institution: Beihang University, China
     year: 2017
+  - course: Diplôme d'ingénieur
+    institution: Ecole Centrale de Nantes, France
+    year: 2017
   - course: BSc in information and computing science
     institution: Beihang University, China
     year: 2014
@@ -42,7 +45,7 @@ education:
 social:
 #- icon: envelope
   #icon_pack: fas
-  #link: '/#contact'  # For a direct email link, use #"mailto:y.qian@qmul.ac.uk".
+  #link: '/#contact'  # For a direct email link, use #"mailto:yifan.qian1@kellogg.northwestern.edu".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/qian_yifan
@@ -74,4 +77,4 @@ user_groups:
 - Visitors
 ---
 
-I am currently a PhD student at the [School of Business and Management](https://www.qmul.ac.uk/busman/) in [Queen Mary University of London](https://www.qmul.ac.uk/) (QMUL), United Kingdom. My research is broadly concerned with computational social science and combines theories and methods from network science, sociology, machine learning and data science. The general goal of my work is to better understand the structure, functioning and consequences of complex large-scale networks across a number of empirical domains including citation networks, social networks and collaboration networks. I have been supervised by [Prof. Pietro Panzarasa](https://www.qmul.ac.uk/busman/staff/panzarasap.html) (QMUL) and co-advised by [Prof. Mauricio Barahona](https://www.imperial.ac.uk/people/m.barahona) (Imperial College London) since September 2017. I will be joining [CSSI, Kellogg School of Management](https://www.kellogg.northwestern.edu/research/science-of-science.aspx) at Northwestern University as a Postdoc in Fall 2021.
+I am currently a postdoctoral fellow at the [CSSI, Kellogg School of Management](https://www.kellogg.northwestern.edu/research/science-of-science.aspx) at Northwestern University, United States. My research is broadly concerned with computational social science and combines theories and methods from network science, sociology, machine learning and data science. The general goal of my work is to better understand the structure, functioning and consequences of complex large-scale networks across a number of empirical domains including citation networks, social networks and collaboration networks.
