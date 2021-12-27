@@ -55,9 +55,12 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/haczqyf
-- icon : dblp
-  icon_pack : ai
-  link : http://dblp.uni-trier.de/pers/hd/q/Qian:Yifan
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/yifan-qian/
+# - icon : dblp
+#   icon_pack : ai
+#   link : http://dblp.uni-trier.de/pers/hd/q/Qian:Yifan
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
@@ -78,3 +81,5 @@ user_groups:
 ---
 
 I am currently a postdoctoral fellow at the [CSSI, Kellogg School of Management](https://www.kellogg.northwestern.edu/research/science-of-science.aspx) at Northwestern University, United States. My research is broadly concerned with computational social science and combines theories and methods from network science, sociology, machine learning and data science. The general goal of my work is to better understand the structure, functioning and consequences of complex large-scale networks across a number of empirical domains including citation networks, social networks and collaboration networks.
+
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "files/Yifan_Qian_CV.pdf" "newtab" >}}CV{{< /staticref >}}.

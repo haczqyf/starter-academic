@@ -16,7 +16,7 @@ publishDate: 2020-11-26T18:01:15Z
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Patterns Cell Press*"
+publication: "*Patterns*"
 publication_short: ""
 
 abstract: "Traditional classification tasks learn to assign samples to given classes based solely on sample features. This paradigm is evolving to include other sources of information, such as known relations between samples. Here, we show that, even if additional relational information is not available in the dataset, one can improve classification by constructing geometric graphs from the features themselves, and using them within a Graph Convolutional Network. The improvement in classification accuracy is maximized by graphs that capture
