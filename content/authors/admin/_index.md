@@ -25,7 +25,7 @@ interests:
 
 education:
   courses:
-  - course: PhD in computational social science
+  - course: PhD in business and management
     institution: Queen Mary University of London, United Kingdom
     year: 2021
   - course: MSc in computer science
