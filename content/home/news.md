@@ -49,15 +49,17 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+- 07/2022 Oral presentation at *[NetSci 2022](https://netsci2022.net/), Shanghai, China*.
+- 06/2022 Poster presentation at the inaugural *[ICSSI 2022](https://www.icssi.org/) in the National Academy of Sciences, Washington DC, US*.
+- 11/2021 I joined the [CSSI](https://www.kellogg.northwestern.edu/research/science-of-science.aspx), Kellogg at Northwestern University, as a postdoc, working with [Prof. Dashun Wang](https://www.dashunwang.com/).
 - 07/2021 I attended the Science of Science Summer School ([S4](https://scienceofscience.org/)) 2021.
-- 05/2021 Three abstracts on science of science accepted as oral contributions at *[IC2S2 2021](https://ic2s2-2021.ethz.ch/), online*.
-- 04/2021 I have been accepted to the Summer Institute in Computational
-Social Science Chicago ([SICSS Chicago](https://sicss.io/2021/chicago/)) 2021.
-- 04/2021 One abstract on science of science accepted as an oral contribution at *[Networks 2021](https://networks2021.net/), online*.
+- 07/2021 Oral presentation at *[Networks 2021](https://networks2021.net/), Indiana University, US (online)*.
+- 06/2021 I attended the Summer Institute in Computational Social Science Chicago ([SICSS Chicago](https://sicss.io/2021/chicago/)) 2021.
+- 05/2021 Oral presentation at *[IC2S2 2021](https://ic2s2-2021.ethz.ch/), ETH Zurich, Switzerland (online)*.
 - 04/2021 :book: New paper published at ***Patterns Cell Press*** [[published](https://www.cell.com/patterns/fulltext/S2666-3899(21)00057-X)][[arXiv](https://arxiv.org/abs/2005.04081)].
 - 01/2021 :book: New paper published at ***IEEE Transactions on Neural Networks and Learning Systems*** [[published](https://ieeexplore.ieee.org/document/9319542)][[arXiv](https://arxiv.org/abs/1905.12921)].
-- 09/2020 Oral and poster presentation at *[NetSci 2020](https://netsci2020.netscisociety.net/), online*.
-- 07/2020 Poster presentation at *[IC2S2 2020](http://2020.ic2s2.org/6th-international-conference-computational-social-science), online*.
+- 09/2020 Oral and poster presentation at *[NetSci 2020](https://netsci2020.netscisociety.net/), Rome, Italy (online)*.
+- 07/2020 Poster presentation at *[IC2S2 2020](https://ic2s2.mit.edu/), Massachusetts Institute of Technology, US (online)*.
 - 05/2020 :book: New preprint on Geometric graphs from data to aid classification tasks [[arXiv](https://arxiv.org/abs/2005.04081)].
 - 07/2019 Oral and poster presentation at *[IC2S2 2019](https://2019.ic2s2.org/), University of Amsterdam, The Netherlands*.
 - 05/2019 :book: New preprint on Quantifying the alignment of graph and features in deep learning [[arXiv](https://arxiv.org/abs/1905.12921)].

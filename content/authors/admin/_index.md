@@ -6,7 +6,7 @@ title: Yifan Qian
 superuser: true
 
 # Role/position
-role: Postdoc in Science of Science
+role: Postdoc in Science of Science and Innovation
 
 # Organizations/Affiliations
 organizations:
@@ -18,6 +18,7 @@ bio: My research is broadly concerned with computational social science and comb
 
 interests:
 - Science of science
+- Innovation
 - Computational social science
 - Network science
 - Machine learning
