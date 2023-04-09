@@ -81,6 +81,6 @@ user_groups:
 - Visitors
 ---
 
-I am currently a postdoctoral fellow at the [CSSI, Kellogg School of Management](https://www.kellogg.northwestern.edu/research/science-of-science.aspx) at Northwestern University, United States. My research is broadly concerned with computational social science and combines theories and methods from network science, sociology, machine learning and data science. The general goal of my work is to better understand the structure, functioning and consequences of complex large-scale networks across a number of empirical domains including citation networks, social networks and collaboration networks.
+I am currently a postdoctoral fellow at the [CSSI, Kellogg School of Management](https://www.kellogg.northwestern.edu/research/science-of-science.aspx) at Northwestern University, United States. My research is broadly concerned with the science of science, and combines theories and methods from network science, machine learning, data science, and sociology. The general goal of my work is to measure and predict innovations in research institutions with large-scale data sets on scientific fundings, publications and their broad impacts on various facets of human society.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "files/Yifan_Qian_CV.pdf" "newtab" >}}CV{{< /staticref >}}.
