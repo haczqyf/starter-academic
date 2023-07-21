@@ -49,6 +49,7 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+- 06/2023 Poster presentation at *[ICSSI 2023](https://www.icssi.org/), Northwestern University, US*.
 - 07/2022 Oral presentation at *[NetSci 2022](https://netsci2022.net/), Shanghai, China*.
 - 06/2022 Poster presentation at the inaugural *[ICSSI 2022](https://www.icssi.org/) in the National Academy of Sciences, Washington DC, US*.
 - 11/2021 I joined the [CSSI](https://www.kellogg.northwestern.edu/research/science-of-science.aspx), Kellogg at Northwestern University, as a postdoc, working with [Prof. Dashun Wang](https://www.dashunwang.com/).
