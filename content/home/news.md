@@ -49,6 +49,7 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+- 07/2024 Two talks at *[ICSSI 2024](https://www.icssi.org/) in the National Academy of Sciences, Washington DC, US*.
 - 10/2023 Best Paper Honorable Mentions Award at *[VIS 2023](https://ieeevis.org/year/2023/info/awards/best-paper-awards), Melbourne, Australia*.
 - 06/2023 Poster presentation at *[ICSSI 2023](https://www.icssi.org/), Northwestern University, US*.
 - 07/2022 Oral presentation at *[NetSci 2022](https://netsci2022.net/), Shanghai, China*.
