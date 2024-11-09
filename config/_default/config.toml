@@ -14,7 +14,7 @@ baseurl = "https://yifanqian.com/"
 
 # Enter a copyright notice to display in the site footer.
 # To display a copyright symbol, type `&copy;`. For current year, type `{year}`.
-copyright = "&copy; 2022 Yifan Qian"
+copyright = "&copy; 2024 Yifan Qian"
 
 ############################
 ## Advanced options below ##
